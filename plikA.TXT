@@ -1,2 +1,3 @@
 Lorem ipsum
 Jest GIT
+Nowa linijka
